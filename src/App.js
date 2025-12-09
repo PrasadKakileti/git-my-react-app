@@ -118,7 +118,8 @@ function App() {
               <button style={{ padding: "10px 14px", borderRadius: 10, border: "1px solid #e6e9ef", background: "transparent" }}>Shop Women</button>
             </div>
           </div>
-          <div style={{ borderRadius: 12, overflow: "hidden" }}>
+          <div style={{ borderRadius: 121244
+            , overflow: "hidden" }}>
             <img src="https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?auto=format&fit=crop&w=1200&q=60" alt="hero" style={{ width: "100%", height: 240, objectFit: "cover", borderRadius: 12 }} />
           </div>
         </header>
